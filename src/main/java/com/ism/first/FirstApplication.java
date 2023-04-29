@@ -11,7 +11,7 @@ public class FirstApplication {
 
         @GetMapping("/")
         public String Hello(){
-            return "India is My Country.";
+            return "India is My Country. India";
         }
     
 	public static void main(String[] args) {
