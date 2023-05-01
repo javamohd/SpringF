@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class FirstApplicationTests {
 
-	@Test//India ia my C
+	@Test//India ia my Country
 	void contextLoads() {
 	}
 
